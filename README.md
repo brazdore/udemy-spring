@@ -1,16 +1,26 @@
-# udemy-spring
-(Web services c/ Spring Boot e JPA/Hibernate)
+# Web services c/ Spring Boot e JPA/Hibernate
 
-Projeto/Estudo desenvolvido com base nas aulas do prof. Nelio Alves (Java COMPLETO - Seção 25).
+Projeto/Estudo desenvolvido com base nas aulas do prof. Nelio Alves ([Java COMPLETO]).
 
 Aplicativo em produção no Heroku (https://java-sb-udemy.herokuapp.com/).
 
-Exemplos GET:
+## Exemplos GET:
 
+```sh
 /users/{id}
-
+```
+```sh
 /orders/{id}
-
+```
+```sh
 /products/{id}
-
+```
+```sh
 /categories/{id}
+```
+
+[Java COMPLETO]: <https://www.udemy.com/course/java-curso-completo/>
+
+
+
+
